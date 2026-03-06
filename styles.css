@@ -1,13 +1,14 @@
 body {
-  background-color: black;
+  background-color: #3f4738;
 }
 
 h1 {
-  color: #3f4738;
+  color: white;
   text-align: center;
 }
 
 desc {
+  color: white;
   font-family: verdana;
   font-size: 20px;
   text-align: center;
